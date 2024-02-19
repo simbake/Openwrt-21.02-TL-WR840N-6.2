@@ -2,6 +2,8 @@ ONLY SUPPORTS TP-LINK TL-WR840N V6.2 PROCEED WITH CAUTION
 
 OPENWRT VERSION - 21.02.0
 
+Ubuntu 18.04 Build environment recommended.
+
 I've slightly modified the guide to be for this router and other routers that have a 4MB flash.
 
 For convenience, wifi is enabled by default on first boot. If you do not want this, remove ``./target/linux/ramips/base-files/etc/uci-defaults/99_wireless_config``
